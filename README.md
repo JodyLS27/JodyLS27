@@ -1,8 +1,8 @@
 # Jody L. Stocks
 `Technical Director`
 
-I'm a TD specializing in Houdini. I create HDAs and shelf tools which allow the artists to create easier and faster without having to worry about the technical side. With my experience as an FX artist, I'm also very comfortable when working in DOPS and with VEX and VOPs to create tools both technical and Procedural. With Pixar USD, I am also able to work in LOPS with nodes or scripting in Python and Vex.
-<br>I also have experience in creating tools for Maya and Arnold shader.
+I'm a Houdini TD creating HDAs and shelf tools that allow artists to work easier and faster. With my experience as an FX artist, I'm comfortable working in DOPS, SOPS, VOPS, and VEX to create tools and procedural assets. With Pixar USD, I have experience in LOPS with nodes and scripting in Python and Vex.
+<br>I also have experience creating tools for Maya and Arnold shaders and desktop applications that run on Windows and Linux.
 
 ----
 Languages and software
@@ -10,4 +10,7 @@ Languages and software
 <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
+<img align="left" width="32" src="https://user-images.githubusercontent.com/22129412/224920651-832cb2ab-38b2-4451-a5bf-6455e3a1b11d.png" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
+
+#
