@@ -24,7 +24,6 @@ I'm a Houdini TD creating HDAs and shelf tools that allow artists to work easier
 <img align="left" width="32" alt="Houdini" title="Houdini" src="https://user-images.githubusercontent.com/22129412/224920651-832cb2ab-38b2-4451-a5bf-6455e3a1b11d.png" />
 <img width="32" alt="Maya" title="Maya" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
 
-# 
 
 ## Status
 
