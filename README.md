@@ -4,7 +4,7 @@
 I'm a Houdini TD creating HDAs and shelf tools that allow artists to work easier and faster. With my experience as an FX artist, I'm comfortable working in DOPS, SOPS, VOPS, and VEX to create tools and procedural assets. With Pixar USD, I have experience in LOPS with nodes and scripting in Python and Vex.
 <br>I also have experience creating tools for Maya and Arnold shaders and desktop applications that run on Windows and Linux.
 
-<img href="https://www.linkedin.com/in/jody-stocks-688363100/" width="32" alt="LinkedIn" title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/jody-stocks-688363100/"><img width="32" alt="LinkedIn" title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 ----
 ## Languages and tools
