@@ -14,10 +14,10 @@ I'm a Houdini TD creating HDAs and shelf tools that allow artists to work easier
 
 <img align="left" width="32" alt="Git" title="Git" style="padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" width="32" alt="Github" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" width="32" alt="Github" title="Github" style=" background-color: white; border-radius: 25px; padding-right: 0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
 
-<img align="left" width="32" alt="Visual Studio" title="Visual Studio" style="padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" width="32" alt="Visual Studio" title="Visual Studio" style="padding-left: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" width="32" alt="VS Code" title="VS Code" style="padding-right:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 
@@ -28,8 +28,11 @@ I'm a Houdini TD creating HDAs and shelf tools that allow artists to work easier
 ## Status
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JodyLS27&show_icons=true&theme=dracula" />
+<br>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodyLS27&layout=compact" />
+
+<br><br><br><br>
 
 #
